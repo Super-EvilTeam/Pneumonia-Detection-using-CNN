@@ -4,7 +4,7 @@ Convolutional Neural Network model to detect if chest xray provided is Normal or
 
 Dataset used -: https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia
 
-I further preprocessed to fit for training -: https://drive.google.com/file/d/1MwAhP9cQt-dEKviECKOnwk6VNbzGJ9-t/view?usp=share_link
+I further preprocessed dataset to fit for training -: https://drive.google.com/file/d/1MwAhP9cQt-dEKviECKOnwk6VNbzGJ9-t/view?usp=share_link
 
 You can train the model locally on your pc or on kaggle.
 
